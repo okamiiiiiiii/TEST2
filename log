@@ -1,0 +1,50 @@
+[1mdiff --git a/WindowsFormsApplication1/Form1.cs b/WindowsFormsApplication1/Form1.cs[m
+[1mindex ef44f7f..42c735a 100644[m
+[1m--- a/WindowsFormsApplication1/Form1.cs[m
+[1m+++ b/WindowsFormsApplication1/Form1.cs[m
+[36m@@ -16,45 +16,4 @@[m [mnamespace WindowsFormsApplication1[m
+         {[m
+             InitializeComponent();[m
+         }[m
+[31m-[m
+[31m-        private void button1_Click(object sender, EventArgs e)[m
+[31m-        {[m
+[31m-[m
+[31m-        }[m
+[31m-[m
+[31m-        private void panel1_Paint(object sender, PaintEventArgs e)[m
+[31m-        {[m
+[31m-[m
+[31m-        }[m
+[31m-[m
+[31m-        private void Form1_Load(object sender, EventArgs e)[m
+[31m-        {[m
+[31m-[m
+[31m-        }[m
+[31m-[m
+[31m-        private void button7_Click(object sender, EventArgs e)[m
+[31m-        {[m
+[31m-[m
+[31m-        }[m
+[31m-[m
+[31m-        private void button6_Click(object sender, EventArgs e)[m
+[31m-        {[m
+[31m-[m
+[31m-        }[m
+[31m-[m
+[31m-        private void panel2_Paint(object sender, PaintEventArgs e)[m
+[31m-        {[m
+[31m-[m
+[31m-        }[m
+[31m-[m
+[31m-        private void panel3_Paint(object sender, PaintEventArgs e)[m
+[31m-        {[m
+[31m-[m
+[31m-        }[m
+[31m-[m
+[31m-        private void label1_Click(object sender, EventArgs e)[m
+[31m-        {[m
+[31m-[m
+[31m-        }[m
+[31m-    }[m
+ }[m
